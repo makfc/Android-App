@@ -6,4 +6,6 @@
   >* 可配合歐路詞典使用，提取文字後實現快速查字典 
 * [歐路詞典](https://play.google.com/store/apps/details?id=com.qianyan.eudic)
 * [Lynket Browser (previously Chromer)](https://play.google.com/store/apps/details?id=arun.com.chromer)
+* [Open Link With...](https://play.google.com/store/apps/details?id=com.tasomaniac.openwith)
 * [Live Transcribe](https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe)
+* [Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus)
