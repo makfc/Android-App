@@ -11,5 +11,5 @@
 * [Firefox Focus](https://play.google.com/store/apps/details?id=org.mozilla.focus)
 * [Kiwi Browser](https://play.google.com/store/apps/details?id=com.kiwibrowser.browser)
 * [Fluid Navigation Gestures](https://play.google.com/store/apps/details?id=com.fb.fluid)
-* [JINA: App Drawer, Sidebar & Folder Organizer](https://play.google.com/store/apps/detailsid=com.mobeedom.android.jinaFS&hl=zh_HK)
+* [JINA: App Drawer, Sidebar & Folder Organizer](https://play.google.com/store/apps/details?id=com.mobeedom.android.jinaFS)
 * [Todo Agenda](https://github.com/plusonelabs/calendar-widget)
