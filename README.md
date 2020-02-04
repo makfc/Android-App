@@ -6,6 +6,8 @@
   >* 可配合歐路詞典使用，提取文字後實現快速查字典 
   >* Official XDA Thread: https://forum.xda-developers.com/android/apps-games/app-fooview-alpha-im-t3326901
   >* FYI: https://www.playpcesor.com/2017/01/fooview.html
+  >* Customize Task written by me:
+  >* ![Customize Task written by me](https://github.com/makfc/Android-Apps/blob/master/Screenshot.jpg "Customize Task written by me")
 * [歐路詞典](https://play.google.com/store/apps/details?id=com.qianyan.eudic)
 * [Lynket Browser (previously Chromer)](https://play.google.com/store/apps/details?id=arun.com.chromer)
 * [Open Link With...](https://play.google.com/store/apps/details?id=com.tasomaniac.openwith)
